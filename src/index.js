@@ -1,6 +1,6 @@
 import debounce from 'lodash.debounce';
 import './css/styles.css';
-import fetchCountries from './js/fetchCountries'
+import fetchCountries from '../src/js/fetchCountries'
 
 
 const DEBOUNCE_DELAY = 300;
